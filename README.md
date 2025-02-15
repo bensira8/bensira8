@@ -6,7 +6,7 @@
 - 😄 Pronouns: Bensira8 
 - ⚡ Fun fact: I am a PLC, CNC and Microcontroller programmer.
 
-my github is https://github.com/softmaking8/
+
 
 - 👋 Hola, soy @bensira8
 - 👀 Estoy interesada en aprendisaje automático 
@@ -15,5 +15,3 @@ my github is https://github.com/softmaking8/
 - 📫 Cómo contactar conmigo hasmelo saber.
 - 😄 Pronombres: Bensira8 
 - ⚡ Dato curioso: soy programador  PLC, CNC y Microcontroladores.
-
-mi github es https://github.com/softmaking8/
